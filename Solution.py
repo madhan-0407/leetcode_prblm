@@ -10,6 +10,6 @@ class Solution:
 
         
 sol=Solution()
-res=sol.getSneakyNumbers(nums = [7,1,5,4,3,4,6,0,9,5,8,2])
+res=sol.getSneakyNumbers(nums = [56,455,5,525,11])
 print(res)
         
