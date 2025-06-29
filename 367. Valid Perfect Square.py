@@ -5,4 +5,5 @@ class Solution:
         else:
             return True
 
+
 print(Solution().isPerfectSquare(num=5))
